@@ -1,0 +1,69 @@
+timestamp=1674771119326
+
+[~A]
+C:/Users/coolnet/Desktop/Advanced digital/Project/Traffic/src/Traffic.v=0*815753*818793
+LastVerilogToplevel=Testbench
+ModifyID=197
+Version=74
+
+[~MFT]
+0=9|0Traffic.mgf|818793|577118
+1=10|1Traffic.mgf|1429207|1420057
+3=20|3Traffic.mgf|2878699|2854268
+
+[$root]
+A/$root=22|||1*1423236
+BinW64/$root=3*2861331
+SLP=3*2861446
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|c73a565f2ade592f8ac1c68f484c92164f2dcd35e653a54c2b3e31500fdb8aa2
+
+[Testbench]
+A/Testbench=22|../src/Traffic.v|593|1*1429207
+BinW64/Testbench=3*2878580
+R=../src/Traffic.v|593
+SLP=3*2878699
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|7bd24ba28855b8f56ac9de112a40b9d9e5f3e364839e548f034dad07dd1c36b424a7945698057153ceabd9520d081556
+
+[analyze]
+A/analyze=22|../src/Traffic.v|334|1*1426835
+BinW64/analyze=3*2870169
+R=../src/Traffic.v|334
+SLP=3*2874754
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|c81ef4a32722b4a348688556e7d96ce226527262ddaa47cb266f3a3c4d9b973abe8c7266cede341ad9ad80f9392810c9
+
+[counter_bit]
+A/counter_bit=22|../src/Traffic.v|229|1*10130
+BinW64/counter_bit=3*17198
+R=../src/Traffic.v|229
+SLP=3*17787
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|7b6db2c4015751d7eb26e1988f234857b1dabfa86cd0df727a47ada3932d70d2328cd56408c6226564b6baddd18b68a5
+
+[generate_test]
+A/generate_test=22|../src/Traffic.v|306|1*1425889
+BinW64/generate_test=3*2868757
+R=../src/Traffic.v|306
+SLP=3*2869678
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|a414fcc1f9fbf5a52395aaa976feccb7e9b2a8870fba9b21df156b1edf44c40df4fffd8316910547f82b5ed95a7df02f
+
+[tb_traffic_light_controller]
+A/tb_traffic_light_controller=22|../src/Traffic.v|230|1*75202
+BinW64/tb_traffic_light_controller=3*181901
+R=../src/Traffic.v|230
+SLP=3*186103
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|ba7f579d46721a85cf8fd1faee64c724db651e254b30d762d46e745b920187038cd216cc6643e3bba5bdfa4a069d387bf3cb7141ada543f929480d6727f70b30
+
+[traffic_light_controller]
+A/traffic_light_controller=22|../src/Traffic.v|1|1*1423642
+BinW64/traffic_light_controller=3*2861514
+R=../src/Traffic.v|1
+SLP=3*2865683
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|632dafd93e42036f24947de725b4b1ce761bb247a895a3109650edb837c143165611a8c772c575760ed78072f719b1ebfdf719233b5f8c982a44f22dfae8a171
+
+[~U]
+$root=12|0*814469|
+Testbench=12|0*815538||0x10
+analyze=12|0*815258|
+counter_bit=12|0*7009||0x10
+generate_test=12|0*815053|
+tb_traffic_light_controller=12|0*52838||0x10
+traffic_light_controller=12|0*814715|

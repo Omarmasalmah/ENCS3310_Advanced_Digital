@@ -1,0 +1,15 @@
+197
+~M 0 "" 0 $root
+~A 1 "" 0 $root
+~M 3 "../src/Traffic.v" 593 Testbench
+~A 1 "../src/Traffic.v" 593 Testbench
+~M 1 "../src/Traffic.v" 334 analyze
+~A 1 "../src/Traffic.v" 334 analyze
+~M 3 "../src/Traffic.v" 229 counter_bit
+~A 1 "../src/Traffic.v" 229 counter_bit
+~M 1 "../src/Traffic.v" 306 generate_test
+~A 1 "../src/Traffic.v" 306 generate_test
+~M 3 "../src/Traffic.v" 230 tb_traffic_light_controller
+~A 1 "../src/Traffic.v" 230 tb_traffic_light_controller
+~M 1 "../src/Traffic.v" 1 traffic_light_controller
+~A 1 "../src/Traffic.v" 1 traffic_light_controller

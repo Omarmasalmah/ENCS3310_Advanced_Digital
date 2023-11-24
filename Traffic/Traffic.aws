@@ -1,0 +1,14 @@
+[Version]
+Version=13.0
+[Designs]
+Traffic=Traffic.adf
+[Settings]
+Active=Traffic
+[Expand]
+traffic=1
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
